@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+1. Initial git repository file structure is created. These are needed before commits can be performed.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+1. Staging area is a git concept allowing us to chose which files from the working directory to add to the repository.
+   A GUI where the user can multiselect files/folders before the commit could probably have done the job better.
+
